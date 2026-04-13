@@ -1,0 +1,84 @@
+{
+  "accuracy": 0.8095,
+  "precision": 0.4151,
+  "recall": 0.4681,
+  "f1": 0.44,
+  "roc_auc": 0.7385,
+  "confusion_matrix": [
+    [
+      216,
+      31
+    ],
+    [
+      25,
+      22
+    ]
+  ],
+  "attrition_rate": 0.1612,
+  "n_samples": 1470,
+  "n_features": 35,
+  "cv_roc_auc_mean": 0.8276,
+  "cv_roc_auc_std": 0.0237,
+  "top_features": [
+    [
+      "StockOptionLevel",
+      0.10025852173566818
+    ],
+    [
+      "Education",
+      0.052488062530756
+    ],
+    [
+      "JobSatisfaction",
+      0.04236303269863129
+    ],
+    [
+      "EnvironmentSatisfaction",
+      0.041704218834638596
+    ],
+    [
+      "BusinessTravel",
+      0.04146395996212959
+    ],
+    [
+      "JobInvolvement",
+      0.03931543976068497
+    ],
+    [
+      "YearsWithCurrManager",
+      0.03785843774676323
+    ],
+    [
+      "RelationshipSatisfaction",
+      0.03370480611920357
+    ],
+    [
+      "JobLevel",
+      0.033221423625946045
+    ],
+    [
+      "YearsInCurrentRole",
+      0.03240383043885231
+    ],
+    [
+      "WorkLifeBalance",
+      0.031779419630765915
+    ],
+    [
+      "SatisfactionScore",
+      0.03145107626914978
+    ],
+    [
+      "IncomePerYear",
+      0.031122181564569473
+    ],
+    [
+      "TrainingTimesLastYear",
+      0.027609357610344887
+    ],
+    [
+      "OverTime",
+      0.02597924880683422
+    ]
+  ]
+}
