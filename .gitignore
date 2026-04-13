@@ -1,5 +1,3 @@
 __pycache__/
 *.pyc
 .env
-models/*.pkl
-data/*.csv
